@@ -9,4 +9,8 @@ Answer: It could be applied to AI/ML. It could be used to clean data that is fed
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Merging merges branches together while rebasing just edits the git history changes 
+Answer: Merging merges branches together while rebasing just edits the git history changes
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I want to learn more about data science and how to apply it for AI/ML purposes 

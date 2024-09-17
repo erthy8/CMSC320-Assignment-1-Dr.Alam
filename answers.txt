@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to AI/ML. It could be used to clean data that is fed to train algorithms. 

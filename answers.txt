@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: It could be applied to AI/ML. It could be used to clean data that is fed to train algorithms. 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging merges branches together while rebasing just edits the git history changes 

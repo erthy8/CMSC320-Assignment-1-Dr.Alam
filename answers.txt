@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git is a useful version control software that helps you work with others and manage your own history
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to AI/ML. It could be used to clean data that is fed to train algorithms. 
+

@@ -13,4 +13,4 @@ Answer: Merging merges branches together while rebasing just edits the git histo
 
 Q4: What skills do you hope to improve during this course?
 
-Answer: I want to learn more about data science and how to apply it for AI/ML purposes 
+Answer: I want to learn more about data science and how to apply it for AI/ML purposes. 
